@@ -21,7 +21,7 @@ Base.prepare(engine, reflect=True)
 Measurement = Base.classes.measurement
 Stations = Base.classes.station
 
-# Create our session (link) from Python
+# Create our session (link) from Python to the DB
 
 #################################################
 # Flask Setup
